@@ -68,7 +68,7 @@ Install the necessary packages:
     $ brew install gpg-agent gnupg2
     $ brew install Caskroom/cask/yubikey-neo-manager
     $ brew install Caskroom/cask/yubikey-personalization-gui
-    $ brew install Caskroom/cask/gpgtools
+    $ brew cask install gpg-suite
 
 # Configure the Yubikey
 
